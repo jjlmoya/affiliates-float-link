@@ -1,0 +1,20 @@
+{
+  "generator-plugin-wp": {
+    "name": "Affiliates Float Link",
+    "homepage": "https://jjlmoya.es",
+    "description": "A radical new plugin for WordPress!",
+    "version": "0.0.0",
+    "author": "jjlmoya",
+    "authoremail": "juanjo1989+plugins@gmail.com",
+    "authorurl": "https://jjlmoya.es",
+    "license": "GPLv2",
+    "slug": "affiliates-float-link",
+    "classname": "Affiliates_Float_Link",
+    "mainclassname": "Affiliates_Float_Link",
+    "classprefix": "AFL_",
+    "prefix": "affiliates_float_link",
+    "year": 2018,
+    "currentVersionWP": "4.8.1",
+    "plugingenversion": "0.20.2"
+  }
+}
